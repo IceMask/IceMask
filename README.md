@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IceMask
-- 👀 I’m interested in test
+- 👀 I’m interested in LLM
 - 🌱 I’m currently learning English&Japanese
 - 💞️ I’m looking to collaborate on funny code
 - 📫 How to reach me: instagram:@WINTERNIGHTFOREVER
